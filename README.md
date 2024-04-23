@@ -1,5 +1,6 @@
 # Cydir-MC
 Monte Carlo model of Cytoskeleton Dynamic Instability and Repair (CyDIR) kinetics in multicompartmental cell geometry.
+
 Implementation goals for CyDIR-MC:
 - Mixed parallel/antiparallel alignment of microtubule plus tips
 - Cleaving by severin, katanin, and spastin
