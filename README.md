@@ -12,4 +12,3 @@ Implementation goals for CyDIR-MC:
 - Stable diffuse microtubule motion to make room for new growth
 - Intercompartmental transport
 - Dynamic neurite compartment geometry coupled with incoming and outgoing membrane potentials (NEURON/BMTK)
-- Small neuronal networks
